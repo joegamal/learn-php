@@ -12,4 +12,9 @@
 
 
 
+//the file doesnot exist and it will continue
 include("some_file.some_extenstion");
+
+
+//the file doesnot exist and it will not run and return faital error
+require("some_file.some_extenstion");
