@@ -1,6 +1,6 @@
 <?php
 
-class main
+class Main //class name in php must be on CamelCase
 {
     //access modifiers in php are the same as java
     public $pub;
